@@ -1,0 +1,25 @@
+div {
+  position: fixed;
+}
+
+.title {
+  fill: red;
+}
+
+.author {
+  fill: blue;
+}
+
+.count {
+  font-size: 8px;
+}
+
+.select {
+  text-decoration: underline dashed lightgray;
+}
+
+/* .characters {
+  background-color: black;
+  fill: red;
+  overflow: scroll;
+} */
